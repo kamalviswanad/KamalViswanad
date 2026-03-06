@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KamalViswanad
-- 👀 I’m interested in IT, IT infrastructure, and Cybersecurity
-- 🔥 I'm a CompTIA Tech+, A+, Network+ certified
-- 🌱 I’m currently Microsoft 365 and building home labs
+- 👀 I’m interested in IT, IoT, and Cybersecurity
+- 🔥 I'm a CompTIA Tech+, A+, Network+, AWS CCP certified
+- 🌱 Knowledgeable in Microsoft 365 tools
+- ⭐ I am currently enrolled in CodePath's CYB102 course 
 - 📫 My E-mail: gajavallikamal@gmail.com
 
 <!---
